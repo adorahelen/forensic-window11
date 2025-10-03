@@ -1,0 +1,10 @@
+Tables and sample queries for extracted/WebStorage/190346-128-4__QuotaManager
+buckets  meta   
+CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);
+CREATE TABLE buckets(id INTEGER PRIMARY KEY AUTOINCREMENT, storage_key TEXT NOT NULL, host TEXT NOT NULL, type INTEGER NOT NULL, name TEXT NOT NULL, use_count INTEGER NOT NULL, last_accessed INTEGER NOT NULL, last_modified INTEGER NOT NULL, expiration INTEGER NOT NULL, quota INTEGER NOT NULL, persistent INTEGER NOT NULL, durability INTEGER NOT NULL) STRICT;
+CREATE TABLE sqlite_sequence(name,seq);
+CREATE UNIQUE INDEX buckets_by_storage_key ON buckets(storage_key, type, name);
+CREATE INDEX buckets_by_host ON buckets(host, type);
+CREATE INDEX buckets_by_last_accessed ON buckets(type, last_accessed);
+CREATE INDEX buckets_by_last_modified ON buckets(type, last_modified);
+CREATE INDEX buckets_by_expiration ON buckets(expiration);

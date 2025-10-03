@@ -1,0 +1,165 @@
+assets/conversation-small-g7l5datj.css
+history_disabled_conversation_not_found
+HistoryDisabledConversationNotFound
+https://chatgpt.com
+chatgpt-web
+chatgpt\.com
+SharedConversationId
+openai
+OpenAI
+openai-dev
+OpenAIDev
+openai-sidetron
+OpenAISidetron
+openai-sidetron-dev
+OpenAISidetronDev
+selectedConversationId$
+wantsNewConversation$
+prepareConversationDetails
+chatgptfreeplan
+chatgptgoplan
+chatgptplusplan
+chatgptpro
+chatgptprofreeplan
+chatgptplusfreeplan
+chatgptteamplan
+chatgptbusiness_seat_usage
+chatgptbusiness_flat
+chatgpteducation_flat
+chatgptquorumplan
+chatgptenterpriseplan
+chatgpteduplan
+ShareableConversation
+conversation
+Conversation
+CONVERSATION
+share_conversation
+SHARE_CONVERSATION
+oai/apps/hasSeenMeetChatGptModal
+HasSeenMeetChatGptModal
+oai/apps/conversationDrafts
+ConversationDrafts
+customize_chatgpt
+CUSTOMIZE_CHATGPT
+getIsNewConversationafR
+getConversationTurnsa
+getConversationTurnIds
+getConversationTurnAtIndex
+getConversationLastTurn
+getConversationSearchEntryUrls
+chatgpt.workspace.model.GPT-5-reasoning.access
+chatgpt.workspace.model.GPT-5-pro.access
+chatgpt.workspace.model.GPT-5-reasoning-mini.access
+chatgpt.workspace.model.GPT-4.1.access
+chatgpt.workspace.model.GPT-4.5.access
+chatgpt.workspace.model.o3.access
+chatgpt.workspace.model.o3-pro.access
+chatgpt.workspace.model.o4-mini.access
+chatgpt.workspace.model.o4-mini-high.access
+chatgpt.workspace.gpt.crud
+chatgpt.workspace.gpt.share_workspace
+chatgpt.workspace.gpt.share_external
+chatgpt.workspace.gpt.allow_all_third_party
+chatgpt.workspace.gpt.allow_specific_third_party
+chatgpt.workspace.project.crud
+chatgpt.workspace.project.share
+chatgpt.workspace.feature.share-chat-with-workspace.access
+chatgpt.workspace.feature.allow-codex-access.access
+chatgpt.workspace.feature.allow-codex-local-access.access
+chatgpt.workspace.feature.codex-agent-network-access.access
+chatgpt.workspace.feature.codex-device-code-auth.access
+chatgpt.workspace.feature.codex-slack-posting.access
+chatgpt.workspace.feature.image-gen.access
+chatgpt.workspace.feature.search.access
+chatgpt.workspace.feature.deep-research.access
+chatgpt.workspace.feature.voice.access
+chatgpt.workspace.feature.hive.access
+chatgpt.workspace.feature.hive-knowledge-retrieval.access
+chatgpt.workspace.feature.memory.access
+chatgpt.workspace.feature.canvas-code-execution.access
+chatgpt.workspace.feature.canvas-code-network-access.access
+chatgpt.workspace.feature.video-screen-sharing.access
+chatgpt.workspace.feature.app-pairing.access
+chatgpt.workspace.feature.client-application-apple.access
+chatgpt.workspace.feature.agent-mode.access
+chatgpt.workspace.connector.mcp.create
+chatgpt.workspace.connector.dev_mode
+chatgpt.workspace_connector.use
+conversation_followup
+ConversationFollowup
+fConversationEndpoint
+showDebugConversationTurns
+getConversations
+getProjectConversations
+read-only-conversation-template
+ReadOnlyConversationTemplate
+shared-conversation-moderation
+SharedConversationModeration
+report-conversation
+ReportConversation
+isConversationScrolledFromTop
+setIsConversationScrolledFromTopa{k
+If this issue persists please contact us through our help center at help.openai.com.
+If this issue persists please contact us through our help center at [help.openai.com](https://help.openai.com/).
+^ChatGPT.+Macintosh;.+ Chrome\/([\d.]+) .*$
+chatgpt.com/ces
+https://chatgpt.com/backend-api
+https://chatgpt.com/backend-anon
+https://chatgpt.com/public-api
+^https:\/\/ab\.chatgpt\.com\/
+ChatGPT-Account-ID
+.chatgpt.com
+https://api.openai.com/mfa
+https://help.openai.com/en/collections/3943089-billing
+https://openai.com/chatgpt/enterprise
+https://chatgpt.com/contact-sales
+https://help.openai.com/en/articles/7905690-how-do-i-cancel-my-apple-subscription-for-chatgpt-plus-in-the-chatgpt-ios-app
+https://help.openai.com/en/articles/8258076-how-to-cancel-my-plus-subscription-in-the-chatgpt-android-app
+https://help.openai.com/en/articles/7864572-what-is-the-chatgpt-model-selector
+https://help.openai.com/en/articles/11989085-chatgpt-go
+CHATGPT_IOS
+chatgpt_mobile_ios
+chatgpt_mobile_android
+https://chatgpt.com/backend/se
+https://operator.chatgpt.com
+Unlock all of ChatGPT
+chatGPT
+common-message.chatGPT
+ChatGPT
+chatgpt
+https://cdn.oaistatic.com/assets/chatgpt-share-og-u7j5uyao.webp
+ChatGPT helps you get answers, find inspiration and be more productive. It is free to use and easy to try. Just ask and ChatGPT can help with writing, learning, brainstorming and more.
+ai chat,ai,chap gpt,chat gbt,chat gpt 3,chat gpt login,chat gpt website,chat gpt,chat gtp,chat openai,chat,chatai,chatbot gpt,chatg,chatgpt login,chatgpt,gpt chat,open ai,openai chat,openai chatgpt,openai
+A conversational AI system that listens, learns, and challenges
+shouldDisableConversation
+https://github.com/apps/chatgpt-codex-connector
+Allows users create AI-generated images inside ChatGPT.
+Manage whether ChatGPT and GPTs created in this workspace can browse the internet. When enabled, it may send search queries and general location information to Bing, but this data is not linked to or associated with user accounts. This does not apply to third-party GPTs. <link>Learn more</link>
+ChatGPT web search may send queries to third-party search providers based on your inputs to ChatGPT. You should ensure your use of ChatGPT search complies with your obligations under HIPAA.
+Manage whether users can use ChatGPT to record, transcribe, and summarize longform audio. Recordings will be used solely for transcription purposes and will not be stored by OpenAI. <link>Learn more</link>
+Allow ChatGPT to reference past notes and transcripts
+Allow members to reference past notes and transcripts in ChatGPT Record.
+Manage whether members can enable memory. This allows ChatGPT to become more helpful by remembering details and preferences across chats. <link>Learn more</link>
+Allow members to use ChatGPT record.
+Control whether users in this workspace can enable ChatGPT to work with apps. This allows ChatGPT to read and edit the content of specific apps on their desktop to provide better responses. <link>Learn more</link>
+chatgpt.workspace.mdm.disable_copy_paste
+chatgpt.workspace.mdm.disable_file_transfer.upload
+chatgpt.workspace.mdm.disable_file_transfer.download
+OpenaiLockup
+OpenaiLogo
+OpenaiLogoConditionalSvg
+https://help.openai.com/en/articles/10929079-google-workspace-admin-managed-setup#h_856676fdde
+This document is not accessible by ChatGPT, please make sure the document exists and you have granted ChatGPT the access.
+Sign up for ChatGPT Plus
+Your parent is no longer linked to your ChatGPT account
+You're no longer linked to {removedUserName}'s ChatGPT account
+{removedUserName} is no longer linked to your account. To help manage some of their ChatGPT settings, you'll need to be added as a parent or guardian again.
+<strong>Start with a calm, caring conversation.</strong> Listen without judgement and let your child share at their own pace. You might try open-ended questions like: "Can we talk about how you've been feeling lately?" or "Would you be able to share what's been on your mind? I'm here to listen and support you."
+Model behavior for teens in ChatGPT
+Extra protections have been added for teens to keep your experience safe and supportive. ChatGPT will avoid unsafe or graphic topics and focus on age-appropriate answers that help you learn and grow.
+You can use ChatGPT again today at {time}
+You can use ChatGPT again tomorrow at {time}
+conversationInaccessible
+globalToasts.conversationInaccessible
+Conversation inaccessible or not found. You may need to switch accounts or request access if this conversation exists.
+Unable to continue your conversation

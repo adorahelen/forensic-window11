@@ -1,0 +1,10 @@
+askChatgptAnything
+SplashScreenV2.askChatgptAnything
+Ask ChatGPT anything
+askChatgptAnythingWithName
+SplashScreenV2.askChatgptAnything.withName
+Ask ChatGPT anything, {name}
+chatgpt
+SplashScreenV2.chatgpt
+ChatGPT
+ASK_CHATGPT

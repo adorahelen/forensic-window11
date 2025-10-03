@@ -1,0 +1,4 @@
+Tables and sample queries for extracted/210613-128-4__Shortcuts
+meta                omni_box_shortcuts
+CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);
+CREATE TABLE omni_box_shortcuts(id VARCHAR PRIMARY KEY,text VARCHAR,fill_into_edit VARCHAR,url VARCHAR,document_type INTEGER,contents VARCHAR,contents_class VARCHAR,description VARCHAR,description_class VARCHAR,transition INTEGER,type INTEGER,keyword VARCHAR,last_access_time INTEGER,number_of_hits INTEGER);

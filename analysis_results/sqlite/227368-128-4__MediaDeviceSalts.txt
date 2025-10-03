@@ -1,0 +1,5 @@
+Tables and sample queries for extracted/227368-128-4__MediaDeviceSalts
+media_device_salts  meta              
+CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);
+CREATE TABLE media_device_salts(  storage_key TEXT PRIMARY KEY NOT NULL,  creation_time INTEGER NOT NULL,  salt TEXT NOT NULL);
+CREATE INDEX creation_time ON media_device_salts(creation_time);

@@ -1,0 +1,4 @@
+Tables and sample queries for extracted/Collaboration/226226-128-4__MessageDB
+collaboration_messages  meta                  
+CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);
+CREATE TABLE collaboration_messages ( key TEXT, proto BLOB, PRIMARY KEY(key));

@@ -1,0 +1,12 @@
+Your subscription through the Apple App Store is currently on pause due to a payment issue. Please resolve that issue to resume using ChatGPT Plus and avoid duplicate charges.
+Promo pricing applies for {num_months} months. Starting {date}, ChatGPT {plan_name} will continue at {cost}/month. Cancel anytime.
+Promo pricing applies for {num_months} months starting {start_date}. Starting {end_date}, ChatGPT {plan_name} will continue at {cost}/month. Cancel anytime.
+Promo pricing applies for 1 month starting {start_date}. Starting {end_date}, ChatGPT {plan_name} will continue at {cost}/month. Cancel anytime.
+Promo pricing applies for {num_years} years starting {start_date}. Starting {end_date}, ChatGPT {plan_name} will continue at {cost}/year. Cancel anytime.
+Promo pricing applies for 1 year starting {start_date}. Starting {end_date}, ChatGPT {plan_name} will continue at {cost}/year. Cancel anytime.
+Promo pricing applies for 1 month. Starting {date}, ChatGPT {plan_name} will continue at {cost}/month. Cancel anytime.
+Promo pricing applies for {num_years} years. Starting {date}, ChatGPT {plan_name} will continue at {cost}/year. Cancel anytime.
+Promo pricing applies for 1 year. Starting {date}, ChatGPT {plan_name} will continue at {cost}/year. Cancel anytime.
+You'll be able to login with this email. It will also be used for account updates (like password resets) and information about OpenAI services.
+The payments page encountered an error. Please try again. If the problem continues, please visit help.openai.com.
+The account management page encountered an error. Please try again. If the problem continues, please visit help.openai.com.

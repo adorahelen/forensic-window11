@@ -1,0 +1,3 @@
+https://chatgpt.com/
+chatgpt_web_checkout_navigate_to_checkout
+chatgpt_web_checkout_prepare_checkout_session

@@ -1,0 +1,2 @@
+https://sentinel.openai.com/sentinel/97790f37/sdk.jsa
+https://chatgpt.com/backend-api/sentinel/

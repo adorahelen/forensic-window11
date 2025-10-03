@@ -1,0 +1,4 @@
+https://openai.com/
+chatgpt.com/ces
+SIGN_IN_WITH_CHATGPT_CONSENT
+SIGN_IN_WITH_CHATGPT_ORGANIZATION

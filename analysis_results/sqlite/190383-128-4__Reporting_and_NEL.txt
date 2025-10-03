@@ -1,0 +1,7 @@
+Tables and sample queries for extracted/Network/190383-128-4__Reporting and NEL
+meta                       reporting_endpoint_groups
+nel_policies               reporting_endpoints      
+CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);
+CREATE TABLE nel_policies (  nik TEXT NOT NULL,  origin_scheme TEXT NOT NULL,  origin_host TEXT NOT NULL,  origin_port INTEGER NOT NULL,  received_ip_address TEXT NOT NULL,  group_name TEXT NOT NULL,  expires_us_since_epoch INTEGER NOT NULL,  success_fraction REAL NOT NULL,  failure_fraction REAL NOT NULL,  is_include_subdomains INTEGER NOT NULL,  last_access_us_since_epoch INTEGER NOT NULL,  UNIQUE (origin_scheme, origin_host, origin_port, nik));
+CREATE TABLE reporting_endpoints (  nik TEXT NOT NULL,  origin_scheme TEXT NOT NULL,  origin_host TEXT NOT NULL,  origin_port INTEGER NOT NULL,  group_name TEXT NOT NULL,  url TEXT NOT NULL,  priority INTEGER NOT NULL,  weight INTEGER NOT NULL,  UNIQUE (origin_scheme, origin_host, origin_port, group_name, url, nik));
+CREATE TABLE reporting_endpoint_groups (  nik TEXT NOT NULL,  origin_scheme TEXT NOT NULL,  origin_host TEXT NOT NULL,  origin_port INTEGER NOT NULL,  group_name TEXT NOT NULL,  is_include_subdomains INTEGER NOT NULL,  expires_us_since_epoch INTEGER NOT NULL,  last_access_us_since_epoch INTEGER NOT NULL,  UNIQUE (origin_scheme, origin_host, origin_port, group_name, nik));

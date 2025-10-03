@@ -1,0 +1,147 @@
+https://chatgpt.com/s/
+https://chatgpt.com/post/...
+Sign in on platform.openai.com
+To continue using ChatGPT, you need to complete a brief age verification check
+You will be redirected to platform.openai.com where you will need to sign in.
+We are required to verify that our users in Italy are old enough to use ChatGPT. <learnMoreLink>Learn more</learnMoreLink>.
+Log out of ChatGPT as {emailOrPhone}?
+Tailor ChatGPT to your work with file uploads, shared projects, GPTs and persistent memory
+For every ChatGPT user with a valid university email address you refer, you get {discount} your next billing cycle. You can refer up to 12 people, and discounts are automatically applied.
+If your family member is new to ChatGPT, they'll be asked to create an account.
+If your child accepts, you'll be able to manage some of their settings, set time limits, and add safeguards that work for your family. You won't have access to details about your teen's conversations with ChatGPT, except in certain rare safety circumstances. You can unlink accounts anytime. {LearnMoreLink}
+Your parent or guardian will be able to adjust certain features, set time limits, and add safeguards to help guide your experience. We won't share details of your conversations with ChatGPT, except in certain rare safety circumstances. You can unlink accounts anytime. {LearnMoreLink}
+chatgpt.workspace.feature.image-gen.access
+chatgpt.workspace.feature.voice.access
+When your account is linked to a guardian, they can manage certain privacy and content settings for you. They won't have access to your chats, but they'll be notified if we detect conversations with ChatGPT that may put your safety at risk.
+Schedule hours when ChatGPT can't be used.
+Allow your child's transcripts and other files to be used to train our models for ChatGPT and Sora. {LearnMoreLink}
+Allow ChatGPT to save and use memories when responding.
+Allow your child to use Voice Mode in ChatGPT. {LearnMoreLink}
+Allow ChatGPT to create or edit images.
+Your parent or guardian can adjust these settings to help guide how you use ChatGPT and Sora.
+Get personalized ChatGPT responses and Plus benefits when using Siri and Writing Tools.
+Secure sign in with ChatGPT
+Sign in to websites and apps across the internet with the trusted security of ChatGPT. {learn_more_link}
+These apps will allow you to add files to ChatGPT messages.
+Allow ChatGPT deep research to read your GitHub repositories.
+Shown in user settings. Lets users grant ChatGPT deep research read-only access to their GitHub repositories.
+Allow ChatGPT deep research to read Google Drive files.
+Shown in user settings. Lets users grant ChatGPT deep research read-only access to their Google Drive content.
+Allow ChatGPT deep research to read Dropbox files.
+Shown in user settings. Lets users grant ChatGPT deep research read-only access to their Dropbox files.
+Allow ChatGPT deep research to read HubSpot.
+Shown in user settings. Lets users grant ChatGPT deep research read-only access to their Hubspot.
+Allow ChatGPT deep research to read Linear projects.
+Shown in user settings. Lets users grant ChatGPT deep research read-only access to their Linear projects.
+Allow ChatGPT deep research to read files, including those from Sharepoint.
+Shown in user settings. Lets users grant ChatGPT deep research read-only access to their SharePoint/OneDrive files.
+Allow ChatGPT to read and create Google Calendar events.
+Shown in user settings. Lets users grant ChatGPT read-only access to their Google Calendar events.
+Allow ChatGPT to read and send Gmail emails.
+Shown in user settings. Lets users grant ChatGPT access to their Gmail emails.
+Allow ChatGPT to read Google Contacts.
+Shown in user settings. Lets users grant ChatGPT read-only access to their Google Contacts.
+Allow ChatGPT deep research to read Box files.
+Shown in user settings. Lets users grant ChatGPT deep research read-only access to their Box files.
+Allow ChatGPT deep research to read Microsoft Teams chats.
+Shown in user settings. Lets users grant ChatGPT deep research read-only access to their Microsoft Teams chats.
+Allow ChatGPT deep research to read Outlook emails.
+Shown in user settings. Lets users grant ChatGPT deep research read-only access to their Outlook emails.
+Allow ChatGPT deep research to read Outlook Calendar events.
+Shown in user settings. Lets users grant ChatGPT deep research read-only access to their Outlook Calendar events.
+Allow ChatGPT deep research to read Intercom conversations.
+Shown in user settings. Lets users grant ChatGPT deep research read-only access to their Intercom conversations.
+Allow ChatGPT deep research to read Canva designs.
+Shown in user settings. Lets users grant ChatGPT deep research read-only access to their Canva designs.
+Allow ChatGPT deep research to read Slack messages.
+Shown in user settings. Lets users grant ChatGPT deep research read-only access to their Slack messages.
+Allow Codex to access Slack conversations and start codex tasks.
+Shown in user settings. Lets users grant Codex access to their Slack conversations from Codex integrations.
+https://platform.openai.com/docs/mcp#risks-and-safety
+Let ChatGPT proactively read Gmail and give you helpful insights. <link>Learn more</link>
+Let ChatGPT proactively read Google Calendar and give you helpful insights. <link>Learn more</link>
+Let ChatGPT proactively read Google Contacts and give you helpful insights. <link>Learn more</link>
+ChatGPT needs access to your repositories to search them.
+Let ChatGPT recommend connecting to {connectorName} when responding.
+Let ChatGPT reference {connectorName} automatically when responding.
+openai/outputTemplate
+openai/toolInvocation/invoking
+openai/toolInvocation/invoked
+openai/widgetAccessible
+This MCP server can't be used by ChatGPT to search information because it doesn't implement <link>our specification</link>.
+This MCP server can't be used by ChatGPT to search information because it doesn't implement <link>our specification</link>: {reason}
+https://help.openai.com/en/collections/12923329-connected-apps
+Sign in to websites and apps across the internet with the trusted security of ChatGPT. <link>Learn more</link>
+ChatGPT can access information from connected apps. Your permissions are always respected. <link>Learn more</link>
+Sync Google Drive files to ChatGPT for faster, more relevant answers.
+Sync {connector} files to ChatGPT for faster, more relevant answers.
+ChatGPT will read your Google Drive files as needed, so replies may be slower.
+Sync Drive files to ChatGPT for more relevant, up-to-date answers
+ChatGPT will read your SharePoint files as needed, so replies may be slower.
+Sync SharePoint files to ChatGPT for more relevant, up-to-date answers
+Sync SharePoint files to ChatGPT for faster, more relevant answers.
+ChatGPT will read your Notion content as needed, so replies may be slower.
+Sync Notion pages and databases to ChatGPT for more relevant, up-to-date answers
+Sync Notion content to ChatGPT for faster, more relevant answers.
+ChatGPT will read your Box files as needed, so replies may be slower.
+Sync Box files to ChatGPT for more relevant, up-to-date answers
+Sync Box files to ChatGPT for faster, more relevant answers.
+ChatGPT will read your Dropbox files as needed, so replies may be slower.
+Sync Dropbox files to ChatGPT for more relevant, up-to-date answers
+Sync Dropbox files to ChatGPT for faster, more relevant answers.
+ChatGPT will read your Linear issues as needed, so replies may be slower.
+Sync Linear issues to ChatGPT for more relevant, up-to-date answers
+Sync Linear issues to ChatGPT for faster, more relevant answers.
+Sync content to ChatGPT for improved response speed and quality
+Connect your tools with a ChatGPT paid plan
+Upgrade to ChatGPT Plus, Pro, or Business to add connectors to your favorite apps like Google Drive, GitHub, Slack, and more for smarter, more relevant responses.
+ChatGPT {planName}
+The account management page encountered an error. Please try again. If the problem continues, please visit help.openai.com.
+Your paid plan will downgrade to ChatGPT free on {date}
+Thanks for subscribing to ChatGPT {planName}! Your {planName} plan includes:
+Get ChatGPT {planName}
+Allow users of your GPTs to send feedback to your ChatGPT login email. Your email will never be shared publicly.
+archivedConversations
+archivedConversationsModal.name
+archivedConversationsModal.dateCreated
+archivedConversationsModal.loading
+archivedConversationsModal.somethingWentWrong
+archivedConversationsModal.retry
+noArchivedConversations
+archivedConversationsModal.noArchivedConversations
+You have no archived conversations.
+archivedConversationsModal.title
+unarchiveConversation
+archivedConversationsModal.unarchiveConversation
+Unarchive conversation
+deleteConversation
+archivedConversationsModal.deleteConversation
+Delete conversation
+archivedConversationsModal.deleteFailed
+Be talkative and conversational.
+sharedConversations
+sharedConversationModal.name
+sharedConversationModal.dateShared
+sharedConversationModal.loading
+sharedConversationModal.somethingWentWrong
+sharedConversationModal.retry
+noSharedConversations
+sharedConversationModal.noSharedConversations
+sharedConversationModal.title
+goToOriginConversation
+sharedConversationModal.goToOriginConversation
+sharedConversationModal.deleteSharedLink
+sharedConversationModal.deleteSharedLinkFailed
+sharedConversationModal.deleteSharedAllConversations
+sharedConversationModal.deleteSharedAllConversationsConfirm
+sharedConversationModal.deleteSharedAllConversationsFailed
+https://help.openai.com/en/articles/5722486
+https://help.openai.com/en/articles/8400625-voice-mode-faq#h_3839e62d6a
+settingsModal.archivedConversations
+settingsModal.sharedConversations
+Allow your content to be used to train our models, which makes ChatGPT better for you and everyone who uses it. We take steps to protect your privacy. <link>Learn more</link>
+Deletion will prevent you from accessing OpenAI services, including ChatGPT, API, and DALL
+ChatGPT Enterprise automatically disables training.
+ChatGPT Edu automatically disables training.
+ChatGPT Business automatically disables training.
+Allow ChatGPT to use your device's precise location when answering questions.

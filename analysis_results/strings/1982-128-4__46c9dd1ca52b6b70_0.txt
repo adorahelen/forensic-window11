@@ -1,0 +1,22 @@
+authApiFailure.chatGptAccountMissing
+authApiFailure.chatGptAccountMissingSso
+{title} - OpenAI
+createAccountLaterQueued.chatGPT.noAuthUrlButton
+joinWaitlistAdded.chatGPT.noAuthUrlButton
+login.chatgptWordmark
+ChatGPT
+login.openAiLogo
+logo.openAI
+signInWithChatGPTConsent.cancel
+signInWithChatGPTConsent.disallowed
+signInWithChatGPTConsent.info
+signInWithChatGPTConsent.selectWorkspace
+signInWithChatGPTConsent.title
+signInWithChatGPTConsent.unformattedTitle
+signInWithChatGPTOrganization.cancel
+signInWithChatGPTOrganization.consentMessage
+signInWithChatGPTOrganization.projectLabel
+signInWithChatGPTOrganization.title
+signInWithChatGPTOrganization.unformattedTitle
+temporarily-unavailable.chatGPT.noAuthUrlButton
+waitlist.chatGPT.noAuthUrlButton

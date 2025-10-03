@@ -1,0 +1,4 @@
+Tables and sample queries for extracted/DataSharing/190950-128-4__DataSharingDB
+group_data_entities  meta               
+CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);
+CREATE TABLE group_data_entities ( key TEXT, proto BLOB, PRIMARY KEY(key));

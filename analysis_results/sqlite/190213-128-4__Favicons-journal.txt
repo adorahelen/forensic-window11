@@ -1,0 +1,3 @@
+Tables and sample queries for extracted/190213-128-4__Favicons-journal
+Error: file is not a database
+Error: file is not a database

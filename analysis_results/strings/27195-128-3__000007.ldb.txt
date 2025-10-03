@@ -1,0 +1,6 @@
+META:https://auth.openai.com
+chatGPTI
+chatGPTE
+chatGPTE
+H8_https://auth.openai.com
+_https://auth.openai.com

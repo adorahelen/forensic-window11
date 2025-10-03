@@ -1,0 +1,6 @@
+$META:https://auth.openai.com
+$META:https://auth.openai.com
+>_https://auth.openai.com
+$META:https://auth.openai.com
+ META:https://chatgpt.com
+;_https://chatgpt.com

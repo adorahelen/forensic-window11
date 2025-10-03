@@ -1,0 +1,8 @@
+Tables and sample queries for extracted/190496-128-4__BrowsingTopicsSiteData
+browsing_topics_api_hashed_to_unhashed_domain
+browsing_topics_api_usages                   
+meta                                         
+CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);
+CREATE TABLE browsing_topics_api_usages(hashed_context_domain INTEGER NOT NULL,hashed_main_frame_host INTEGER NOT NULL,last_usage_time INTEGER NOT NULL,PRIMARY KEY (hashed_context_domain,hashed_main_frame_host));
+CREATE INDEX last_usage_time_idx ON browsing_topics_api_usages(last_usage_time);
+CREATE TABLE browsing_topics_api_hashed_to_unhashed_domain(hashed_context_domain INTEGER PRIMARY KEY,context_domain TEXT NOT NULL);

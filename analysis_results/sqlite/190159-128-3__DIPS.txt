@@ -1,0 +1,6 @@
+Tables and sample queries for extracted/190159-128-3__DIPS
+bounces  config   meta     popups 
+CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);
+CREATE TABLE config(key TEXT NOT NULL,int_value INTEGER,PRIMARY KEY (`key`));
+CREATE TABLE bounces(site TEXT PRIMARY KEY NOT NULL,first_site_storage_time INTEGER,last_site_storage_time INTEGER,first_user_activation_time INTEGER,last_user_activation_time INTEGER,first_stateful_bounce_time INTEGER,last_stateful_bounce_time INTEGER,first_bounce_time INTEGER,last_bounce_time INTEGER,first_web_authn_assertion_time INTEGER,last_web_authn_assertion_time INTEGER);
+CREATE TABLE popups(opener_site TEXT NOT NULL,popup_site TEXT NOT NULL,access_id INT64,last_popup_time INTEGER,is_current_interaction BOOLEAN,is_authentication_interaction BOOLEAN,PRIMARY KEY (`opener_site`,`popup_site`));
