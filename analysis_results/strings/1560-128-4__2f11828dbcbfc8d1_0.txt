@@ -1,7 +1,0 @@
-https://auth-cdn.oaistatic.com/assets/openai-logo-Cr44hqyW.js
-SIGN_IN_WITH_CHATGPT_CONSENT
-sign-in-with-chatgpt/consent
-https://auth-cdn.oaistatic.com/assets/signInWithChatGPTSessionStorageHack-CgHhyK_D.js
-https://auth-cdn.oaistatic.com/assets/signInWithChatGPTSessionStorageHack-CxlHm8lV.css
-SIGN_IN_WITH_CHATGPT_ORGANIZATION
-sign-in-with-chatgpt/organization

@@ -1,1 +1,0 @@
-File type: SQLite 3.x database, last written using SQLite version 3050000, writer version 2, read version 2, file counter 1, database pages 1, cookie 0, schema 0, unknown 0 encoding, version-valid-for 1

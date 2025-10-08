@@ -1,4 +1,0 @@
-https://openai.com/
-./openai-logo-Cr44hqyW.js
-show_just_chatgpt_login_button
-show_chatgpt_login_and_noauth_buttons

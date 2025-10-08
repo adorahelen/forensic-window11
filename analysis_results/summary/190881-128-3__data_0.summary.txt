@@ -1,1 +1,0 @@
-File type: FoxPro FPT, blocks size 512, next free block index 3284796609, field type 0

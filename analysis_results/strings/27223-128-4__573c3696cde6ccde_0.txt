@@ -1,3 +1,0 @@
-https://chatgpt.com/
-\bhttps:\/\/(?<domain>[^\s]+?\.(?:enterprise\.)?slack\.com)\/archives\/(?<conversation_id>[^\s/]+)\/?\??$
-\bhttps:\/\/(?<domain>[^\s]+?\.(?:enterprise\.)?slack\.com)\/archives\/(?<conversation_id>[^\s/]+)\/p(?<message_id>[^\s?&]+)(?:\?(?:.*thread_ts=(?<thread_id>[^\s&]+)(?:&.*))?)?

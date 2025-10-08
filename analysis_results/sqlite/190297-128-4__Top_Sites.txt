@@ -1,4 +1,0 @@
-Tables and sample queries for extracted/190297-128-4__Top Sites
-meta       top_sites
-CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);
-CREATE TABLE top_sites(url TEXT NOT NULL PRIMARY KEY,url_rank INTEGER NOT NULL,title TEXT NOT NULL);

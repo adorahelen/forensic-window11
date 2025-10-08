@@ -1,3 +1,0 @@
-Tables and sample queries for extracted/2228-128-3__DIPS-wal
-Error: file is not a database
-Error: file is not a database

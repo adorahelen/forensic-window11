@@ -1,1 +1,0 @@
-File type: SQLite 3.x database, last written using SQLite version 3050000, file counter 513, database pages 18, 1st free page 12, free pages 1, cookie 0x3, schema 4, UTF-8, version-valid-for 513

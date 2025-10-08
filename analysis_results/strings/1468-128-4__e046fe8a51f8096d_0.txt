@@ -1,2 +1,0 @@
-https://chatgpt.com/
-Custom connectors are not verified by OpenAI. Malicious developers may attempt to steal your data.

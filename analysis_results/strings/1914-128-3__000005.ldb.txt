@@ -1,7 +1,0 @@
-META:https://auth.openai.com
-chatgpt
-chatGPTE
-@chatgpt_web\":tru
-H8_https://auth.openai.com
-chatgpt.%CD80f997401a931447
-_https://auth.openai.com

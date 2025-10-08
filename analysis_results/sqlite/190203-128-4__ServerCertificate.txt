@@ -1,4 +1,0 @@
-Tables and sample queries for extracted/190203-128-4__ServerCertificate
-certificates  meta        
-CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);
-CREATE TABLE certificates(sha256hash_hex TEXT PRIMARY KEY,der_cert BLOB NOT NULL,trust_settings BLOB NOT NULL);

@@ -1,1 +1,0 @@
-File type: SQLite Write-Ahead Log, version 3007000

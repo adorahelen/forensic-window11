@@ -1,4 +1,0 @@
-Tables and sample queries for extracted/190429-128-4__heavy_ad_intervention_opt_out.db
-enabled_previews_v1  previews_v1        
-CREATE TABLE previews_v1 (host_name VARCHAR NOT NULL, time INTEGER NOT NULL, opt_out INTEGER NOT NULL, type INTEGER NOT NULL, PRIMARY KEY(host_name, time DESC, opt_out, type));
-CREATE TABLE enabled_previews_v1 (type INTEGER NOT NULL, version INTEGER NOT NULL, PRIMARY KEY(type));
