@@ -33,6 +33,13 @@ fls -o 239616 secondImaging.raw
 229372-144-1
 229373-144-6
 
+// 로밍 경로부터 다시 
+82102-144-1
+229629-144-1
+229630-144-5
+229368-144-1
+229369-144-10
+
 Users/사용자프로필/AppData/Roaming/Mozilla/Firefox/Profiles/mtt6gxcy.default-release/places.sqlite
 => 역추적 아래의 해당 경로에 있었으며, 이유는 Local에 두지 않음으로 물리적 환경 구속 벗어남
  fls -pr -o 239616 secondImaging.raw | grep 229450
